@@ -22,15 +22,21 @@ The **Expense Tracker** is a simple web application designed to help users manag
 
 Follow these steps to get a copy of the project up and running on your local machine.
 
+**LIVE LINK**:
+   ```bash
+https://bansalabhinav.github.io/Expense-Tracker/
+```
 ### Prerequisites
 
 Make sure you have a modern web browser installed on your computer.
+
 
 ### Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
+   
 
  ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
